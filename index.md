@@ -1,6 +1,6 @@
-## Welcome to xiaojiantou's GitHub Pages 	:grinning:
+## xiaojiantou
 
-I'm really happy to onboard [editor on GitHub](https://github.com/xiaojiantou/xiaojiantou.github.io/edit/main/index.md) to maintain my website here. I'll just use this md file as a dictionary for my editing later on.
+Hey! My name is xiaojiantou, a software engineer located in Silicon Valley. Previously, I regard myself as an untypical engineer, but recent years, I found my sharp edges are becoming more smooth and have to admit I'm just a regular CRUD SWE.
 
 ### Markdown
 
