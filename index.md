@@ -1,6 +1,6 @@
-## xiaojiantou
+## Introduction
 
-Hey! My name is xiaojiantou, a software engineer located in Silicon Valley. Previously, I regard myself as an untypical engineer, but recent years, I found my sharp edges are becoming more smooth and have to admit I'm just a regular CRUD SWE.
+Hey, nice to meet you! My name is xiaojiantou, a software engineer located in Silicon Valley. Previously, I regard myself as an untypical engineer, but recent years, I found my sharp edges are becoming more smooth and have to admit I'm just a regular CRUD SWE.
 
 ### Markdown
 
