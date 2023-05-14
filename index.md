@@ -1,6 +1,8 @@
 ## Introduction
 
-Hey, nice to meet you! My name is xiaojiantou, a software engineer located in Silicon Valley. Previously, I regard myself as an untypical engineer, but recent years, I found my sharp edges are becoming more smooth and have to admit I'm just a regular CRUD SWE.
+Hi, nice to see you here! My name is xiaojiantou, a software engineer located in Bay Area. I graduated from Columbia University and embarking on my career at Facebook (now Meta), then transferred to Instagram.
+
+_[Instagram](https://www.instagram.com/xiaojiantou/)_
 
 ### Markdown
 
