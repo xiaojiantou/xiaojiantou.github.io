@@ -2,12 +2,12 @@
 
 Hi, nice to see you here! My name is xiaojiantou, a software engineer located in Bay Area. I graduated from Columbia University and embarking on my career at Facebook (now Meta), then transferred to Instagram.
 
-![Image](https://www.instagram.com/p/Cr-JOXLuPBg/)
+![Image]()
 
 **Links:**
-[Instagram](https://www.instagram.com/xiaojiantou/)
-[Red](https://www.xiaohongshu.com/user/profile/5ac37a67e8ac2b731881f147)
-[LinkedIn](https://www.linkedin.com/in/xuelun-sharon-li/)
+- [Red](https://www.xiaohongshu.com/user/profile/5ac37a67e8ac2b731881f147)
+- [Instagram](https://www.instagram.com/xiaojiantou/) 
+- [LinkedIn](https://www.linkedin.com/in/xuelun-sharon-li/)
 
 ### Markdown
 
@@ -30,8 +30,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), [Emoji Cheat Sheat](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
 
 ### Jekyll Themes
 
