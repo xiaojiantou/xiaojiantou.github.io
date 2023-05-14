@@ -2,7 +2,12 @@
 
 Hi, nice to see you here! My name is xiaojiantou, a software engineer located in Bay Area. I graduated from Columbia University and embarking on my career at Facebook (now Meta), then transferred to Instagram.
 
-_[Instagram](https://www.instagram.com/xiaojiantou/)_
+![Image](https://www.instagram.com/p/Cr-JOXLuPBg/)
+
+**Links:**
+[Instagram](https://www.instagram.com/xiaojiantou/)
+[Red](https://www.xiaohongshu.com/user/profile/5ac37a67e8ac2b731881f147)
+[LinkedIn](https://www.linkedin.com/in/xuelun-sharon-li/)
 
 ### Markdown
 
